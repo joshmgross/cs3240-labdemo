@@ -1,2 +1,4 @@
-print('hello')
 
+from helper import *
+
+greeting('hello')
